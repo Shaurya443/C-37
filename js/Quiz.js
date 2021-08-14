@@ -30,7 +30,8 @@ class Quiz {
 
   play(){
     //write code here to hide question elements
-   // this.title.hide();
+textSize(50)
+    text("hello",350,35)
     //this.input1.hide();
     //this.button.hide();
    // this.input2.hide();
