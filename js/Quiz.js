@@ -40,9 +40,7 @@ textSize(50)
   
 
     //write code to show a heading for showing the result of Quiz
-    fill("black")
-    textSize(50)
-    text("Result Of The Quiz",350,35)
+    
    
    
 
